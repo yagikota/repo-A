@@ -1,2 +1,6 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
 github.com/yagikota/private-repo-B v0.0.0-20230504111014-6f10de185850 h1:W8MOZqBFfCfX4KSuxiPC9meARqHASZC+18eJ5qNzfSY=
 github.com/yagikota/private-repo-B v0.0.0-20230504111014-6f10de185850/go.mod h1:MzW6pqC7RzhR/iH8/MFBtoAn9FIlEEbo3fLYLXeqRAY=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
